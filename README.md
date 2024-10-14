@@ -8,4 +8,5 @@ Sebastian Renteria Palacios, 1041204797, Ingeniería de Sistemas
 
 Santiago Trespalacios Bolivar, 1040570235, Ingeniería de Sistemas
 
-https://youtu.be/d1g1gpphJnk
+## Videos:
+preprocesado: https://youtu.be/d1g1gpphJnk
